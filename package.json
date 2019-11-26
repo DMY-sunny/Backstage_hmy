@@ -9,7 +9,7 @@
     "clean": "rimraf dist"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "babel-polyfill": "^6.26.0",
     "echarts": "^4.2.1",
     "element-ui": "^2.9.1",
