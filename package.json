@@ -41,7 +41,7 @@
     "js-queue": "^2.0.0",
     "lru-cache": "^5.1.1",
     "node-ipc": "^9.1.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "object-inspect": "^1.6.0",
     "object-keys": "^1.1.1",
     "string.prototype.padstart": "^3.0.0",
