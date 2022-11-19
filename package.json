@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.2.0",
-    "@vue/cli-service": "^3.2.0",
+    "@vue/cli-service": "^5.0.8",
     "chalk": "^2.4.2",
     "color-convert": "^2.0.1",
     "has": "^1.0.3",
